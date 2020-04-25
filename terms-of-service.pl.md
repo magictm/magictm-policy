@@ -1,6 +1,6 @@
 # Regulamin MagicTM
 
-_Zaktualizowano: 26.06.2019_
+_Zaktualizowano: 25.04.2020_
 
 Niniejsze Warunki świadczenia usług („Warunki”) są umową między Tobą a MagicTM. Regulują one korzystanie z witryn, usług, aplikacji mobilnych, produktów i treści MagicTM („Usługi”).
 
