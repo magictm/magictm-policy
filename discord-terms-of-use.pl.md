@@ -1,6 +1,6 @@
 # Regulamin serwera Discord — discord.mgtm.pl
 
-_Zaktualizowano 26.06.2019_
+_Zaktualizowano 13.05.2020_
 
 Korzystając z serwera MagicTM Discord, zgadzasz się na te Warunki. Jeśli nie zgadzasz się z którymkolwiek z warunków, nie możesz korzystać z serwera MagicTM Discord.
 
@@ -97,20 +97,6 @@ Korzystając z serwera MagicTM Discord, zgadzasz się na te Warunki. Jeśli nie 
 - Każdy użytkownik może korzystać z kanałów publicznych
 
 - Nie powinno przekraczać się limitu osób na kanale
-
-## Kanały prywatne
-
-- To idealne miejsce dla Twojej drużyny.
-
-- Musisz posiadać drużynę składającą się z mininum 4 osób.
-
-- Utrzymywanie aktywności na serwerze discord oraz jego rozwój — wszelkie nieobecności dłuższe niż 7 dni należy zgłaszać administracji.
-
-- Każda dłuższa nieobecność niż 7 dni będzie się równać z permanentnym usunięciem kanału.
-
-- Przeszkadzanie na tym kanale będzie kończyło się mutem na minimum 3 dni w zależności od ciężaru wykroczenia. Natomiast nie dostosowanie się do regulaminu i recydywa będzie karana permanentnym banem.
-
-- Aby uzyskać kanał prywatny sprawdź odpowienią sekcję serwera.
 
 ## System rang
 
