@@ -42,7 +42,7 @@ Korzystając z serwera MagicTM Discord, zgadzasz się na te Warunki. Jeśli nie 
 
 ## Zasady ogólne
 
-- Na serwerze komunikowujemy się poprawnie językowo. Moderatorzy muszą być w stanie przeczytać wszystkie wiadomości wysyłane na serwerze.
+- Na serwerze komunikujemy się poprawnie językowo. Moderatorzy muszą być w stanie przeczytać wszystkie wiadomości wysyłane na serwerze.
 
 - Użyj odpowiedniej nazwy użytkownika (minimum trzy znaki), statusu i zdjęcia profilowego (awatara). Unikaj znaków specjalnych, emotikonów, wulgaryzmów i podszywania się.
 
