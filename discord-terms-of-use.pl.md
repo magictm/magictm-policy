@@ -1,6 +1,6 @@
 # Regulamin serwera Discord — discord.mgtm.pl
 
-_Zaktualizowano 11.12.2020_
+_Zaktualizowano 12.12.2020_
 
 Korzystając z serwera MagicTM Discord, zgadzasz się na te Warunki. Jeśli nie zgadzasz się z którymkolwiek z warunków, nie możesz korzystać z serwera MagicTM Discord.
 
@@ -94,11 +94,31 @@ Korzystając z serwera MagicTM Discord, zgadzasz się na te Warunki. Jeśli nie 
 
 - Każdy użytkownik może korzystać z kanałów publicznych.
 
-- Jeżeli kanał posiada limit osób nie powinno się go przekraczać. W końcu po coś jest ten limit.
+- Jeżeli kanał posiada limit osób nie powinno się go przekraczać. W końcu po coś ten limit jest.
+
+## System kar
+
+- Najniższą możliwą karą jest upomnienie ustne lub pisemne a najwyższą karą jest ban permanentny (wykluczenie z serwera na zawsze).
+
+- Przyznaną karę może zdjąć tylko Administrator, który ją przyznał, bądź Administrator z wyższą rangą.
+
+- Serwer posiada system ostrzeżeń. Po otrzymaniu ostrzeżenia użytkownik zostanie powiadomiony w wiadomości prywatnej bądź na czacie w kanale tekstowym — nie zawsze musi tak być.
+
+- Za nieprzestrzeganie regulaminu grozi:
+
+  - Upomnienie,
+
+  - Ostrzeżenie,
+
+  - Odebranie rangi,
+
+  - Odebranie rangi z brakiem możliwości ponownego złożenia podania,
+
+  - Zbanowanie,
+
+  - Wyrzucenie z serwera.
 
 ## Skargi i odwołania
-
-- Przyznaną karę może zdjąć tylko osoba, która ją przyznała, bądź osoba z wyższą rangą.
 
 - Zanim się odwołasz sprawdź raz jeszcze regulamin.
 
