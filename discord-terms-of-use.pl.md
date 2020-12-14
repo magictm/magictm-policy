@@ -1,6 +1,6 @@
 # Regulamin serwera Discord — discord.mgtm.pl
 
-_Zaktualizowano 12.12.2020_
+_Zaktualizowano 14.12.2020_
 
 Korzystając z serwera MagicTM Discord, zgadzasz się na te Warunki. Jeśli nie zgadzasz się z którymkolwiek z warunków, nie możesz korzystać z serwera MagicTM Discord.
 
