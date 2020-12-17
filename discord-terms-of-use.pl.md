@@ -1,6 +1,6 @@
 # Regulamin serwera Discord — discord.mgtm.pl
 
-_Zaktualizowano 13.05.2020_
+_Zaktualizowano 14.12.2020_
 
 Korzystając z serwera MagicTM Discord, zgadzasz się na te Warunki. Jeśli nie zgadzasz się z którymkolwiek z warunków, nie możesz korzystać z serwera MagicTM Discord.
 
@@ -36,141 +36,73 @@ Korzystając z serwera MagicTM Discord, zgadzasz się na te Warunki. Jeśli nie 
 
 - Tymczasowi członkowie są automatycznie wyrzucani, gdy się rozłączą, chyba że przyznano im rolę.
 
-- Aby zostać na stałe na serwerze Discord musisz utworzyć konto MagicTM oraz połączyć je ze swoim kontem Discord.
+- Aby zostać na stałe na serwerze Discord musisz zaakceptować regulamin serwera w kanale #zasady poprzez dodanie reakcji w wiadomości.
 
-- Jeżeli połączysz swoje konto Discord z kontem MagicTM — automatycznie zostanie przyznana ranga / rangi. Jeżeli w momencie połączenia kont nie będziesz na serwerze MagicTM — dla Twojej wygody dołączymy na serwer MagicTM za Ciebie.
+- Jeżeli połączysz swoje konto Discord z kontem MagicTM — automatycznie zostanie przyznana ranga(-i). Jeżeli w momencie połączenia kont nie będziesz na serwerze MagicTM — dla Twojej wygody dołączymy na serwer MagicTM dla Ciebie.
 
 ## Zasady ogólne
 
-- Zabronione jest używanie nazw użytkownika:
+- Na serwerze komunikujemy się poprawnie językowo. Moderatorzy muszą być w stanie przeczytać wszystkie wiadomości wysyłane na serwerze.
 
-  - Zawierających ciąg tych samych znaków bądź krótszych niż 3 znaki;
+- Użyj odpowiedniej nazwy użytkownika (minimum trzy znaki), statusu i zdjęcia profilowego (awatara). Unikaj znaków specjalnych, emotikonów, wulgaryzmów i podszywania się.
 
-  - Podszywających się pod osoby z administracji serwera Discord oraz sieci MagicTM.
+- Nie zmieniaj nazwy użytkownika. Nagminne zmienianie nazwy używkonika powoduję dezorjętację.
 
-- Zabronione jest reklamowanie innych serwerów głosowych, serwerów gier, stron internetowych, for, itd. bez pisemnej zgody administracji serwera.
+- Niech cała dyskusja będzie uprzejma i prowadzona we właściwych kanałach. Możemy poprosić Cię o przeniesienie rozmowy.
 
-- Zabronione jest podszywanie się pod administracje.
+- Unikaj osobistych dramatów na czacie. Nękanie na czacie lub w wiadomościach osobistych nigdy nie jest dozwolone, niezależnie od tego, co myślisz o innych.
 
-- Zabronione jest podszywanie się pod kogoś, posiadanie takiej samej nazwy użytkownika w celu żartu, lub dla utrudnienia identyfikacji użytkownika.
+- Zakaz podszywania się pod innych użytkowników, moderatorów, znane osobistości lub Administrację MagicTM.
 
-- Na serwerze staramy się komunikować poprawnie językowo.
+- Nie spamuj. Unikaj nadmiernej liczby wiadomości, obrazów, formatowania, emotikonów, komend i @wzmianek. Zachęcanie innych do spamowania również jest niedozwolone.
 
-- Zabronione jest nagminne zmienianie nazw użytkownika.
+- Nie używaj @wzmianek ani nie wysyłaj bezpośrednio wiadomości do Administracji Serwera. Szanuj ich czas, oni też są ludźmi.
 
-- Zabronione jest wysyłanie w wiadomościach linków przekierowujących na niebezpieczne strony lub aplikacje.
+- Żadnej autopromocji ani reklam. Obejmuje to niechciane odniesienia i linki do innych mediów społecznościowych, serwerów, społeczności i usług na czacie. Obejmuje to również wiadomości prywatne użytkowników.
 
-- Zabronione jest obrażanie innych użytkowników serwera oraz wszystkie formy Mobbing'u.
+- Linki nie są dozwolone, chyba że zostaną zatwierdzone. Linki na białej liście mogą być udostępniane.
 
-- Zabrania się umieszczania w opisach, komentarzach oraz innych miejscach jakichkolwiek treści sprzecznych z prawem.
+- Nie omijaj filtrów. Dotyczy to zarówno słów, jak i linków. Jeśli coś jest ocenzurowane, jest ocenzurowane z jakiegoś powodu!
 
-- Zabrania się nagrywania rozmów na serwerze bez zgody osób, które na nim przebywają.
+- Brak danych osobowych. Chroń swoją prywatność i prywatność innych osób.
 
-- Zabrania się zapisywania jakich kolwiek treści z serwera Discord bez zgody administracji.
+- Zakaz nękania, znęcania się i zastraszania. Nie tolerujemy krzywdzenia innych.
 
-## Użytkownicy
+- Żadnego nękania innych graczy. Nie tolerujemy mowy nienawiści.
 
-- Wymagamy, aby użytkownik korzystający z kanałów głosowych korzystał ze sprawnego, dobrze skonfigurowanego mikrofonu oraz słuchawek.
+- W razie potrzeby użyj tagów spoilera. || spojlery ||.
 
-- Wysławiaj się możliwie jak najlepiej, nie nadużywaj przekleństw.
+- Żadnych tematów politycznych ani religijnych. Te złożone tematy skutkują kontrowersyjnymi i obraźliwymi postami. Nawet jeśli podchodzi się do tych tematów w sposób cywilny, nie jest to właściwe miejsce na te rozmowy.
 
-- Nie utrudniaj komunikacji innym użytkownikom, nie spamuj itp.
+- Żadnych treści pirackich, seksualnych, NSFW ani innych podejrzanych treści. Nie akceptujemy nielegalnych lub podejrzanych dyskusji i działań.
 
-- Nie obrażaj, nie ubliżaj i nie wyzywaj innych użytkowników.
+- Nie nagrywaj innych rozmów ani innych treści na serwerze. Ty też nie chciałbyś aby Twoje treści inni nagrywali.
 
-- Zabrania się zagłuszania rozmów innych Użytkowników np. przy pomocy syntezatorów, modulatorów głosu, programami typu "Ivona", wszelakimi dziwnymi dźwiękami, piskami, buczeniem, trzaskami, bekaniem, gwizdaniem, krzykiem, muzyką itp.
+- Żadnych botów użytkowników (user bots) ani kont alternatywnych. Niezatwierdzone boty i alty użytkowników nie są tutaj dozwolone. Konta, których to dotyczy, zostaną zbanowane bez ostrzeżenia.
 
-- Każdy użytkownik może zostać ukarany za złamanie regulaminu.
+- Niektóre kanały mają swoje zasady. Proszę stosuj się do nich.
 
-- Jeżeli zauważyłeś(-aś) kogokolwiek kto łamie regulamin, jesteś zobowiązany(-a) poinformować o tym członka administracji serwera.
+- Moderatorzy mają ostatnie słowo. Słuchaj i szanuj ochotników, którzy utrzymują ten serwer.
 
-## Kanały pomocnicze
-
-- Kanały pomocnicze służą do pomocy związanej z serwerem Discord lub serwerami powiązanymi z MagicTM
-
-- Kanały pomocnicze nie służą do luźnych rozmów z administratorami. Wchodzenie na nie bez celu i/bądź gadanie / pisanie o byle czym, kończy się karą.
+- Jeżeli ktoś łamie regulamin poinformuj nas o tym.
 
 ## Kanały publiczne
 
-- Kanał publiczny to kanał tekstowy bądź głosowy
+- Kanał publiczny to kanał tekstowy bądź głosowy. Zasady ogólne mają również zastosowanie w kanale głosowym.
 
-- Każdy użytkownik może korzystać z kanałów publicznych
+- Jeżeli zdecydujesz się korzystać z kanałów głosowych wymagamy abyś posiadał sprawny i dobrze skonfigurowany mikrofon. W końcu jakość to podstawa.
 
-- Nie powinno przekraczać się limitu osób na kanale
+- Każdy użytkownik może korzystać z kanałów publicznych.
 
-## System rang
-
-- Tylko osoby posiadające aktywne konto MagicTM mogą ubiegać się o rangę.
-
-- Rangi mogą zostać dodane jak i odebrane przez członka administracji, bądź bota.
-
-- Każda ranga posiada pewne wymagania.
-
-- Ranga nie może zostać odebrana bez podania przyczyny.
-
-- Podania o rangę można składać na stronie serwera.
-
-- Osoba wyrzucona, bądź zbanowana traci wszystkie posiadane rangi.
-
-- Szczegółowe informacje na temat dostępnych rang można znaleźć w odpowiedniej sekcji serwera.
+- Jeżeli kanał posiada limit osób nie powinno się go przekraczać. W końcu po coś ten limit jest.
 
 ## System kar
 
-- Najniższą możliwą karą jest upomnienie ustne lub pisemne.
+- Najniższą możliwą karą jest upomnienie ustne lub pisemne a najwyższą karą jest ban permanentny (wykluczenie z serwera na zawsze).
 
-- Najwyższą karą jest ban permanentny (tzw. ban na zawsze).
+- Przyznaną karę może zdjąć tylko Administrator, który ją przyznał, bądź Administrator z wyższą rangą.
 
-- Karą może być również usunięcie kanału lub odebranie rangi.
-
-- Przyznaną karę może zdjąć tylko osoba, która ją przyznała, bądź osoba z wyższą rangą.
-
-- Serwer posiada system ostrzeżeń. Ostrzeżenia dodawane są do kont użytkoników w postaci rangi. Posiadając cztery ostrzeżenia użytkownik zostaje permamentnie wykluczony z serwera Discord.
-
-- Zanim się odwołasz sprawdź raz jeszcze regulamin.
-
-- Po sprawdzeniu regulaminu jeszcze raz zastanów się czy zostałeś bezpodstawnie ukarany.
-
-- Jeśli dalej uważasz, że jesteś niewinny — odwołaj się.
-
-## Administracja
-
-- Jeśli użytkownik oczekuje w kanałach pomocniczych to zawsze członek administracji najniższy rangą powinien pomóc temu użytkownikowi. Jeśli dany administrator nie jest w stanie pomóc powinien zgłosić się do administratora wyższego rangą.
-
-- Każdy administrator podlega administratorowi wyższą rangą, a każdy administrator właścicielowi serwera.
-
-- Członek administracji powinien godnie reprezentować swoją postawą dobre imię serwera.
-
-- Członek administracji zawsze powinien zachowywać się przyzwoicie i mieć miły stosunek do użytkowników.
-
-- Członek administracji nieaktywny przez ponad 7 dni (bez uprzedniego poinformowania), zostaje wydalony z administracji.
-
-- Członek administracji powinien podawać zawsze sprawdzone informacje o serwerze, jeśli nie jest pewny, powinien zgłosić się do rangi od niego wyższej, lub do innego administratora.
-
-- Członek administracji jest zobowiązany do wypełniania swoich obowiązków i musi być na bieżąco z zasadami panującymi na serwerze.
-
-- Członek administracji zawsze powinien zachować spokój i zasady kultury, nawet jeśli użytkownik staje się uprzykrzający i nie chce współpracować.
-
-- Członek administracji nie powinien wchodzić na kanały prywatne użytkowników (chyba że użytkownik go o to poprosi).
-
-- Członek administracji nie powinien przekraczać maksymalnej liczby użytkowników — dot. kanałów z limitem (chyba że użytkownik go o to poprosi).
-
-- Członek administracji który nie przestrzega regulaminu administracji, zachowuje się niewłaściwie lub godzi w dobre imię serwera, może zostać zdegradowany lub wyrzucony z administracji.
-
-- Członek administracji nie może zostać wyrzucony z administracji bez podania powodu (niedot. Rangi Magnus / Master).
-
-- Właściciel ma prawo do odebrania rangi adminowi bądź innemu użytkownikowi Discord bez podania powodu.
-
-- Właścicielem serwera jest Marcin Stawowczyk (merlinplaygames#6877). Jego decyzja jest niepodważalna, nie ma od niej odwołania.
-
-- Administrator nie jest zobowiązany do tłumaczenia się z każdego działania, chyba że wymaga od niego tego właściciel.
-
-- Administrator ma prawo wyrzucić lub zbanować użytkownika gdy łamie on regulamin.
-
-- Administrator jest zobowiązany do podania jasnego i konkretnego powodu podczas wyrzucenia użytkownika z serwera.
-
-- Administrator jest zobowiązany do nałożenia kary na użytkownika według taryfikatora kar w regulaminie.
-
-- Admin podlega tak samo pod regulamin serwera jak wszyscy inni użytkownicy.
+- Serwer posiada system ostrzeżeń. Po otrzymaniu ostrzeżenia użytkownik zostanie powiadomiony w wiadomości prywatnej bądź na czacie w kanale tekstowym — nie zawsze musi tak być.
 
 - Za nieprzestrzeganie regulaminu grozi:
 
@@ -180,20 +112,20 @@ Korzystając z serwera MagicTM Discord, zgadzasz się na te Warunki. Jeśli nie 
 
   - Odebranie rangi,
 
-  - Odebranie rangi z brakiem możliwości ponownego złożenia podania.
+  - Odebranie rangi z brakiem możliwości ponownego złożenia podania,
 
   - Zbanowanie,
 
   - Wyrzucenie z serwera.
 
-- Adminstracja nie odpowiada za pliki / treści przesyłane na serwerze.
+## Skargi i odwołania
 
-- Administracja nigdy nie zapyta Cię o Twoje hasło, bądź adres email.
+- Zanim się odwołasz sprawdź raz jeszcze regulamin.
 
-## Skargi, zażalenia i odwołania
+- Po sprawdzeniu regulaminu jeszcze raz zastanów się czy zostałeś bezpodstawnie ukarany.
 
-- Skargi i zażalenia można składać u osób odpowiedzialnych za serwer lub w odpowiednim dziale na stronie serwera.
+- Jeśli dalej uważasz, że jesteś niewinny — odwołaj się.
 
-- Odwołanie od decyzji administratora można złożyć na stronie serwera.
+- Skargi można składać do Administracji Serwera lub w odpowiednim dziale na stronie serwera.
 
-- Na odwołanie od bana użytkownik ma 48h, licząc od chwili otrzymania bana.
+- Odwołanie od decyzji Administratora można złożyć na stronie serwera nie później niż 24 godziny od chwili otrzymania bana.
