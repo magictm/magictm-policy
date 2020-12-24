@@ -70,7 +70,7 @@ Korzystając z serwera MagicTM Discord, zgadzasz się na te Warunki. Jeśli nie 
 
 - Żadnego nękania innych graczy. Nie tolerujemy mowy nienawiści.
 
-- W razie potrzeby użyj tagów spoilera. || spojlery ||.
+- W razie potrzeby użyj tagów spoilera. || spoilery ||.
 
 - Żadnych tematów politycznych ani religijnych. Te złożone tematy skutkują kontrowersyjnymi i obraźliwymi postami. Nawet jeśli podchodzi się do tych tematów w sposób cywilny, nie jest to właściwe miejsce na te rozmowy.
 
