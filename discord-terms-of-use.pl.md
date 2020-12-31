@@ -46,7 +46,7 @@ Korzystając z serwera MagicTM Discord, zgadzasz się na te Warunki. Jeśli nie 
 
 - Użyj odpowiedniej nazwy użytkownika (minimum trzy znaki), statusu i zdjęcia profilowego (awatara). Unikaj znaków specjalnych, emotikonów, wulgaryzmów i podszywania się.
 
-- Nie zmieniaj nazwy użytkownika. Nagminne zmienianie nazwy użytkownika powoduję dezorjętację.
+- Nie zmieniaj nazwy użytkownika. Nagminne zmienianie nazwy użytkownika powoduję dezorjentację.
 
 - Niech cała dyskusja będzie uprzejma i prowadzona we właściwych kanałach. Możemy poprosić Cię o przeniesienie rozmowy.
 
